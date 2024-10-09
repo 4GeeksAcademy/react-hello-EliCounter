@@ -1,5 +1,5 @@
 import React from "react";
-import { stopTimer, resumeTimer, resetTimer, startCountdown, startCounting } from "../index.js";
+import { stopTimer, resetTimer, startCountdown, startCounting } from "../index.js";
 
 // Create your first component
 const Home = () => {
